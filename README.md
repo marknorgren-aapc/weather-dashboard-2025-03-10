@@ -1,4 +1,4 @@
-# React Site Base
+# Weather Dashboard
 
 ## Project Overview
 
